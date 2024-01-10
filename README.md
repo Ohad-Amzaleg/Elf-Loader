@@ -15,7 +15,7 @@ This project involves the development of a custom static program loader, adherin
 - Exploring virtual memory for process-centric memory management.
 
 ## How to Use:
-1. Clone the repository: `git clone https://github.com/yourusername/your-repo.git`
+1. Clone the repository: `git clone https://github.com/Ohad-Amzaleg/Elf-Loader.git`
 2. Navigate to the project directory.
 3. Execute the loader script.
     ```
